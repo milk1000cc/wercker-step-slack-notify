@@ -1,4 +1,4 @@
-[![wercker status](https://app.wercker.com/status/6077bdbf04300a6412268672fa39e71b/m "wercker status")](https://app.wercker.com/project/bykey/6077bdbf04300a6412268672fa39e71b)
+[![wercker status](https://app.wercker.com/status/1001404a93c8041f02d6f8b311675def/m "wercker status")](https://app.wercker.com/project/bykey/1001404a93c8041f02d6f8b311675def)
 
 # slack-notify
 
@@ -30,7 +30,7 @@ Add `SLACK_TOKEN` as deploy target or application environment variable.
 
     build:
         after-steps:
-            - sherzberg/slack-notify:
+            - milk1000cc/slack-notify:
                 subdomain: slacksubdomain
                 token: $SLACK_TOKEN
                 channel: general
