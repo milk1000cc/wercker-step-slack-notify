@@ -1,5 +1,5 @@
 name: slack-notify
-version: 0.0.6
+version: 0.0.7
 description: Sends notifications to Slack with a user link for failed message. This version is a fork of https://app.wercker.com/#applications/527ac6e85930ceca130041c3/tab/details .
 keywords:
   - notification

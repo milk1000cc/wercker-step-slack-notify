@@ -1,4 +1,4 @@
-[![wercker status](https://app.wercker.com/status/1001404a93c8041f02d6f8b311675def/m "wercker status")](https://app.wercker.com/project/bykey/1001404a93c8041f02d6f8b311675def)
+[![wercker status](https://app.wercker.com/status/e751786b7727dc4f61aa88caa036d036/m "wercker status")](https://app.wercker.com/project/bykey/e751786b7727dc4f61aa88caa036d036)
 
 # slack-notify
 
@@ -59,6 +59,10 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Changelog
+
+## 0.0.7
+- Add a user link for failed message
+- Forked https://app.wercker.com/#applications/527ac6e85930ceca130041c3/tab/details
 
 ## 0.0.6
 - Deploy url added
